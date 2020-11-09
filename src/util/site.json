@@ -1,10 +1,10 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Coup de Coeur",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "Un site de mes photographes préférés\nBuilt with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
+    "image": "/assets/logo.jpg",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
   },
